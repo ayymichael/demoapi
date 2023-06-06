@@ -1,26 +1,31 @@
 {
   "items": [
   {
+    "id": 1,
     "title": "Nike Air Jordan 1 Mid Basketball Blossom",
     "price": 16990,
     "imageUrl": "./sneakers/blossom.jpg"
   },
   {
+    "id": 2,
     "title": "Nike Air Jordan 1 Low Bordeaux",
     "price": 17990,
     "imageUrl": "./sneakers/bordeaux.jpg"
   },
   {
+    "id": 3,
     "title": "Nike Air Jordan 1 Low Concord",
     "price": 18990,
     "imageUrl": "./sneakers/concord.jpg"
   },
   {
+    "id": 4,
     "title": "Nike Air Jordan 1 Low Floral Vines",
     "price": 16990,
     "imageUrl": "./sneakers/floral.jpg"
   },
   {
+    "id": 5,
     "title": "Nike Air Jordan 1 Low Madder Root",
     "price": 16990,
     "imageUrl": "./sneakers/madder.jpg"
