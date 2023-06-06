@@ -39,5 +39,18 @@
     "imageUrl": "./sneakers/concord.jpg"
   }
 ],
-  "favorites": []
+  "favorites": [
+  {
+    "id": 1,
+    "title": "Nike Air Jordan 1 Low Madder Root",
+    "price": 16990,
+    "imageUrl": "./sneakers/madder.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Nike Air Jordan 1 Low Bordeaux",
+    "price": 17990,
+    "imageUrl": "./sneakers/bordeaux.jpg"
+  }
+  ]
 }
